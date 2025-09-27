@@ -17,10 +17,10 @@
 ## 🌐 Socials:
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/NerdDev_Utkarsh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nerddev_utkarsh/)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](@NerdDev_Utkarsh)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)
-[![StackApp](https://img.shields.io/badge/StackApps-%23F58025.svg?logo=stackoverflow&logoColor=white)](#) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/utkarsh_7535/)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/US007700)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nerddev-utkrsh/)
+[![StackApp](https://img.shields.io/badge/StackApps-%23F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31581594/utkarsh-singh?tab=profile)
 
 ---
 
@@ -75,11 +75,11 @@
 
 <!--##
 
-# 📊 GitHub Stats (disabled for now):
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Professor070&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Professor070&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Professor070&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api?username=nerddev-utkarsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nerddev-utkarsh&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nerddev-utkarsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ---
 
